@@ -12,5 +12,6 @@
     "autoload": {
       "files": ["RongCloud/Autoloader.php"]
     },
+
     "require": {}
 }
