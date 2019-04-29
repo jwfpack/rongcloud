@@ -1,0 +1,13 @@
+{
+    "name": "jwf/rongcloud",
+    "description": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jwf",
+            "email": "18519334957@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
