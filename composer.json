@@ -9,5 +9,8 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+      "files": ["RongCloud/Autoloader.php"]
+    },
     "require": {}
 }
